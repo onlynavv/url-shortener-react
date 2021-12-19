@@ -1,0 +1,29 @@
+.form-card {
+  width: 650px;
+}
+
+form,
+.form-cardContent {
+  padding: 20px 30px;
+}
+
+.userInput {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.form-control {
+  margin-bottom: 15px;
+}
+
+.register-wrapper {
+  margin-top: 130px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.error-div {
+  text-align: center;
+  color: red;
+  font-weight: 500;
+}

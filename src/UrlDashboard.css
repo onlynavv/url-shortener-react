@@ -1,0 +1,9 @@
+.urlShortener-wrapper {
+  flex-direction: column;
+}
+
+.backBtn {
+  background-color: rgb(70, 70, 255) !important;
+  color: white !important;
+  margin-top: 25px !important;
+}
